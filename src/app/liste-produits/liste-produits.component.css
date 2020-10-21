@@ -1,0 +1,7 @@
+app-fiche-produit {
+    background-color: lightpink;
+    width:90%;
+    padding : 10px;
+    margin : 10px;
+    display: flex;
+}

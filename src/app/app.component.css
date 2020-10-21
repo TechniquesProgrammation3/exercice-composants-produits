@@ -1,0 +1,21 @@
+app-entete {
+    background-color : #7ff0c3; 
+    width:100%; 
+    height:50px; 
+    display: block; 
+}
+
+app-liste-produits {
+    background-color : yellow; 
+    width:100%;  
+    display: block; 
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+app-pied-de-page {
+    background-color : darkorange; 
+    width:100%; 
+    height:50px; 
+    display: block; 
+}
